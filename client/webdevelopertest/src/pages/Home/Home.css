@@ -1,0 +1,10 @@
+.Home {
+  font-size: 120px;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  color: rgba(51, 38, 236, 0.171);
+}

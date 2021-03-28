@@ -1,0 +1,17 @@
+.FormObj {
+  width: 400px;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  padding: 30px;
+
+  border-style: solid;
+  border-radius: 45px;
+
+  background: rgb(137, 207, 224);
+
+  border-color: rgba(170, 223, 236, 1);
+}
